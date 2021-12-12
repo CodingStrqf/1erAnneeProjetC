@@ -1,0 +1,28 @@
+27
+con001		construction  		2	Minecraft            
+car001		carte         		6	Uno                  
+log001		logique       		3	Complots             
+pla001		plateau       		2	La Bonne Paye        
+tui001		tuile         		1	Carcassonne          
+tui002		tuile         		1	La Guerre Des Moutons
+tui003		tuile         		1	Tantrix              
+tui004		tuile         		1	Le Petit Prince      
+tui005		tuile         		2	Taluva Deluxe        
+tui006		tuile         		1	Qwirkle              
+car002		carte         		3	Tarot                
+car003		carte         		4	Poker                
+car004		carte         		2	Bataille             
+car005		carte         		3	Belote               
+car006		carte         		4	7 Familles           
+log002		logique       		1	TTMC                 
+log003		logique       		2	Juduku               
+log004		logique       		1	Sans Pitie           
+log005		logique       		1	The Mind              
+log006		logique       		1	Dominos              
+log007		logique       		2	Scrabble             
+pla002		plateau       		3	Monopoly             
+pla003		plateau       		1	Le Tour de France     
+con002		construction  		1	Architectura          
+con003		construction  		1	Kingdomino           
+con004		construction  		1	Citadelles           
+con005		construction  		1	Caylus               
